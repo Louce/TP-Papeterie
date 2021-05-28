@@ -1,0 +1,4 @@
+*.class
+/.idea/
+setting.properties
+tps.iml
